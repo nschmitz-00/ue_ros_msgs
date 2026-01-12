@@ -1,0 +1,14 @@
+#Actor name
+string actor_name
+---
+#Actor name
+string actor_name
+#Actor with given name exists?
+bool actor_exists
+#Pose
+geometry_msgs/PoseStamped pose
+#Twist
+geometry_msgs/TwistStamped twist
+#Mass
+float32 mass
+
